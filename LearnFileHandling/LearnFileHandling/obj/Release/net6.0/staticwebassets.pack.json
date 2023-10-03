@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (1).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (1).png"
+    },
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (2).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (2).png"
+    },
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (21).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (21).png"
+    },
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (22).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (22).png"
+    },
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (23).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (23).png"
+    },
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (24).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (24).png"
+    },
+    {
+      "Id": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnFileHandling\\LearnFileHandling\\wwwroot\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (3).png",
+      "PackagePath": "staticwebassets\\Images\\UserRegister\\373e81e2-f68a-49ba-97c5-bd8eff93a90c_Screenshot (3).png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.LearnFileHandling.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.LearnFileHandling.props",
+      "PackagePath": "build\\LearnFileHandling.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LearnFileHandling.props",
+      "PackagePath": "buildMultiTargeting\\LearnFileHandling.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.LearnFileHandling.props",
+      "PackagePath": "buildTransitive\\LearnFileHandling.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PUBLISH\FileHandlingAPI</_PublishTargetUrl>
+    <History>True|2023-10-03T09:45:29.3162780Z;True|2023-10-03T15:17:24.1057731+05:45;True|2023-09-25T16:25:35.5682028+05:45;True|2023-09-25T16:05:57.0293768+05:45;True|2023-09-25T16:05:36.0269565+05:45;True|2023-09-25T16:04:12.8348567+05:45;True|2023-09-25T15:45:34.9880977+05:45;True|2023-09-25T15:38:24.1878798+05:45;True|2023-09-25T15:29:39.1090112+05:45;True|2023-09-25T12:48:20.4704026+05:45;True|2023-09-25T12:40:16.4830814+05:45;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
