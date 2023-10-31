@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KcX2Oj4jlXK7cPQLZRxMmOh11Z5lIGUJ4bv+bwzrQfl5/WDl+RkHtriX+pU6mqzbcwDti3jpMZ+SeI6cJNZxcg==",
+  "dgSpecHash": "KNbaxIpr6NIRaRG6Wt+f/8IYbHA3n3RNQIWUJ0g0G6Zv7bMGFLexOeGmWZ1CHEx7Cjxu9ZbBj4fXYveMmp+yIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnJWT\\LearnJWT\\LearnJWT.csproj",
+  "projectFilePath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\LearnJWT\\LearnJWT\\LearnJWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sudip.shrestha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sudip.shrestha\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

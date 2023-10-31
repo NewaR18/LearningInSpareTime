@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnJWT\\LearnJWT\\LearnJWT.csproj": {}
+    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\LearnJWT\\LearnJWT\\LearnJWT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnJWT\\LearnJWT\\LearnJWT.csproj": {
+    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\LearnJWT\\LearnJWT\\LearnJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnJWT\\LearnJWT\\LearnJWT.csproj",
+        "projectUniqueName": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\LearnJWT\\LearnJWT\\LearnJWT.csproj",
         "projectName": "LearnJWT",
-        "projectPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnJWT\\LearnJWT\\LearnJWT.csproj",
+        "projectPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\LearnJWT\\LearnJWT\\LearnJWT.csproj",
         "packagesPath": "C:\\Users\\sudip.shrestha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnJWT\\LearnJWT\\obj\\",
+        "outputPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\LearnJWT\\LearnJWT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

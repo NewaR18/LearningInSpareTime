@@ -19,7 +19,7 @@ namespace TryPKI.Controllers
         [Route("[Action]")]
         public string Post()
         {
-            return "Certificare is validated and you are inside the method now";
+            return "Certificate is validated and you are inside the method now";
         }
     }
 }

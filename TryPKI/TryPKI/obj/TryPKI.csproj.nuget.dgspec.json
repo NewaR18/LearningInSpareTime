@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sudip.shrestha\\source\\repos\\TryPKI\\TryPKI\\TryPKI.csproj": {}
+    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\TryPKI\\TryPKI\\TryPKI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sudip.shrestha\\source\\repos\\TryPKI\\TryPKI\\TryPKI.csproj": {
+    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\TryPKI\\TryPKI\\TryPKI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sudip.shrestha\\source\\repos\\TryPKI\\TryPKI\\TryPKI.csproj",
+        "projectUniqueName": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\TryPKI\\TryPKI\\TryPKI.csproj",
         "projectName": "TryPKI",
-        "projectPath": "C:\\Users\\sudip.shrestha\\source\\repos\\TryPKI\\TryPKI\\TryPKI.csproj",
+        "projectPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\TryPKI\\TryPKI\\TryPKI.csproj",
         "packagesPath": "C:\\Users\\sudip.shrestha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sudip.shrestha\\source\\repos\\TryPKI\\TryPKI\\obj\\",
+        "outputPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\TryPKI\\TryPKI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,6 +46,30 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Certificate": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.17, )"
             },
