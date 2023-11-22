@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sudip.shrestha\\source\\repos\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj": {}
+    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sudip.shrestha\\source\\repos\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj": {
+    "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sudip.shrestha\\source\\repos\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj",
+        "projectUniqueName": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj",
         "projectName": "IdentityLearningSecondTry",
-        "projectPath": "C:\\Users\\sudip.shrestha\\source\\repos\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj",
+        "projectPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\IdentityLearningSecondTry.csproj",
         "packagesPath": "C:\\Users\\sudip.shrestha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sudip.shrestha\\source\\repos\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\obj\\",
+        "outputPath": "C:\\Users\\sudip.shrestha\\source\\repos\\LearnNewThings\\IdentityLearningSecondTry\\IdentityLearningSecondTry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.19, )"
@@ -70,6 +74,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Owin.Security.Providers": {
+              "target": "Package",
+              "version": "[2.26.0, )"
             }
           },
           "imports": [
